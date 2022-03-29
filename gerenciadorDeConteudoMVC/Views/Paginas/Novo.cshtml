@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Páginas";
+    List<Business.Pagina> paginas = ViewBag.Paginas;
+}
+
+<div class="jumbotron">
+    <h2>Nova página</h2>
+
+    <div>
+        <a href="/paginas" class="btn btn-default">Voltar</a><br /><br />
+    </div>
+
+    <form action="/paginas/criar" method="post">
+        <div class="form-group">
+            <label for="nome">Nome: </label>
+            <input type="text" class="form-control" name="nome" id="nome">
+        </div>
+        <div class="form-group">
+            <label for="pwd">Data:</label>
+            <input type="datetime" class="form-control" name="data" id="data">
+        </div>
+        <div class="form-group">
+            <label for="conteudo">Conteúdo:</label>
+            <textarea name="conteudo" id="conteudo" class="form-control"></textarea>
+        </div>
+
+        <button type="submit" class="btn btn-default">Cadastrar</button>
+    </form>
+</div>

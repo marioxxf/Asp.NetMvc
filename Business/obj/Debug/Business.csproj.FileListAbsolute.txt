@@ -1,0 +1,9 @@
+C:\Users\mario\source\repos\gerenciadorDeConteudoMVC\Business\bin\Debug\Business.dll
+C:\Users\mario\source\repos\gerenciadorDeConteudoMVC\Business\bin\Debug\Business.pdb
+C:\Users\mario\source\repos\gerenciadorDeConteudoMVC\Business\bin\Debug\Database.dll
+C:\Users\mario\source\repos\gerenciadorDeConteudoMVC\Business\bin\Debug\Database.pdb
+C:\Users\mario\source\repos\gerenciadorDeConteudoMVC\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\gerenciadorDeConteudoMVC\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\gerenciadorDeConteudoMVC\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\mario\source\repos\gerenciadorDeConteudoMVC\Business\obj\Debug\Business.dll
+C:\Users\mario\source\repos\gerenciadorDeConteudoMVC\Business\obj\Debug\Business.pdb

@@ -1,0 +1,6 @@
+C:\Users\mario\source\repos\gerenciadorDeConteudoMVC\Database\bin\Debug\Database.dll
+C:\Users\mario\source\repos\gerenciadorDeConteudoMVC\Database\bin\Debug\Database.pdb
+C:\Users\mario\source\repos\gerenciadorDeConteudoMVC\Database\obj\Debug\Database.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\gerenciadorDeConteudoMVC\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\gerenciadorDeConteudoMVC\Database\obj\Debug\Database.dll
+C:\Users\mario\source\repos\gerenciadorDeConteudoMVC\Database\obj\Debug\Database.pdb
